@@ -1,0 +1,79 @@
+Subject 4
+
+***** STARTING *****
+Static standing (calibration)
+<20 to 23>
+
+Sync jump
+<23 to 26>
+
+Sit-to-stand
+<26 to 54>
+- RTH3
+
+Forward jump
+<55 to 61>
+- LMEP
+- R2MT
+- L1MT
+- RMEP
+- RSH3
+- R1MT
+- LLEP
+- RTH2
+- LCAL
+
+Walking back
+<61 to 72>
+- LASI
+- RASI
+- RTH1
+
+***** MID *****
+Static standing (calibration)
+<267 to 272>
+
+Sync jump
+<272 to 275>
+
+Sit-to-stand
+<276 to 300.5>
+- RASI
+- LASI
+
+Forward jump
+<300.5 to 306.5>
+- RMEP
+- LSH3
+- L1MT
+
+Walking back
+<307 to 315>
+- LMEP
+
+****** ENDING *****
+Static standing (calibration)
+<566 to 570>
+- RASI
+
+Sync jump
+<570 to 573>
+
+Sit-to-stand
+<574 to 598>
+- RTH3
+
+Forward jump
+<598 to 604>
+- RMEP
+- L5MT
+- R2MT
+- LMEP
+- LFBH
+
+Walking back
+<605 to 613>
+- L1MT
+- RTH1
+- LASI
+- RTH3

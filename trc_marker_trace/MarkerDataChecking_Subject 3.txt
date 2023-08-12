@@ -1,0 +1,89 @@
+Subject 3
+
+***** STARTING *****
+Static standing (calibration)
+<18.59 to 21.00>
+
+Sync jump
+<45.00 to 50.00>
+
+Sit-to-stand
+<50.00 to 88.667>
+- RGTR dropped 59.087 to (NOT BACK TILL THE END OF THE PERIOD)
+
+Forward jump
+<90.00 to 100.00>
+- LLEP dropped 93.649 to (NOT BACK TILL THE END OF THE PERIOD)
+- L2MT dropped 94.853 to (NOT BACK TILL THE END OF THE PERIOD)
+- R1MT dropped 92.216 to (NOT BACK TILL THE END OF THE PERIOD)
+- R2MT dropped 92.216 to 105.113
+- LGTR dropped 94.889 to (NOT BACK TILL THE END OF THE PERIOD)
+- RCAL dropped 96.621 to (NOT BACK TILL THE END OF THE PERIOD)
+- RPS2 dropped 96.500 to 97.798
+- LCAL dropped 98.087 to (NOT BACK TILL THE END OF THE PERIOD)
+
+Walking back
+<101.079 to 112.570>
+- RMEP dropped 101.604 to (NOT BACK TILL THE END OF THE PERIOD)
+- LTH3 dropped 102.090 to (NOT BACK TILL THE END OF THE PERIOD)
+- RTH1 dropped 106.056 to (NOT BACK TILL THE END OF THE PERIOD)
+- RASI dropped 105.676 to (NOT BACK TILL THE END OF THE PERIOD)
+- RTH3 dropped 106.711 to (NOT BACK TILL THE END OF THE PERIOD)
+
+
+***** MID *****
+Static standing (calibration)
+<282.270 to 283.991>
+- LSH2
+
+Sync jump
+<283.643 to 290.639>
+- LCAL dropped
+- L2MT dropped
+- RMML dropped
+
+Sit-to-stand
+<289.384 to 329.925>
+- L2MT dropped
+- RSH2 dropped
+
+Forward jump
+<330.203 to 337.623>
+- L2MT dropped
+- RSH2 dropped
+- R1MT dropped
+- RSH3 dropped
+- RTH1 dropped
+- RMML dropped
+
+Walking back
+<337.623 to 348.907>
+- RTH1 dropped 
+- RMML dropped
+- RMEP dropped
+- LTH3 dropped
+
+
+****** ENDING *****
+Static standing (calibration)
+<594.711 to 595.433>
+
+Sync jump
+<595.433 to 599.318>
+
+Sit-to-stand
+<599.069 to 636.324>
+- RMML dropped
+
+Forward jump
+<636.324 to 642.703>
+- RMML dropped
+- LMEP dropped
+- RMEP dropped
+- R2MT dropped
+
+Walking back
+<643.800 to 653.447>
+- RMML dropped
+- LMEP dropped
+- R2MT dropped

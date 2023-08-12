@@ -1,0 +1,74 @@
+Subject 1
+
+***** STARTING *****
+Static standing (calibration)
+<18.288>
+
+Sync jump
+<20.522 to 24.044>
+- RMEP dropped 22.4365 and come back
+
+Sit-to-stand
+<24.107 to 61.129>
+
+Forward jump
+<61.355 to 68.00>
+- RMEP 62.630
+- RTTB 63.279
+- LASI 64.607
+- RMML 65.292
+- LPS2 65.608
+- RPS2 65.475
+- RASI 65.475
+
+Walking back
+<68.633 to 78.881>
+- All marker back at 75.730
+
+
+***** MID *****
+Static standing (calibration)
+<265.841 to 267.000>
+
+Sync jump
+<267.081 to 271.427>
+- RMEP dropped at 268.137
+
+Sit-to-stand
+<272.836 to 307.694>
+
+Forward jump
+<308.00 to 315.00>
+- RASI dropped at 309.616
+- RMEP dropped at 312.206 (back at 313.450)
+- RPS2 dropped at 312.206 (back at 313.450)
+
+Walking back
+<315.712 to 324.980>
+- All marker back at 319.921
+
+
+****** ENDING *****
+Static standing (calibration)
+<567.297 to 58.000>
+
+Sync jump
+<568.297 to 572.814>
+- LLML dropped at 569.843
+
+Sit-to-stand
+<577.784 to 605.324>
+
+Forward jump
+<606.000 to 611.000>
+- RMML dropped at 606.739
+- RMEP dropped at 606.755
+- LMML dropped at 608.994
+- LGTR, LSH3, RSH2, RASI, RFBH, LPS2 dropped at 609.094
+- LPS1, RPS2 dropped at 610.098
+
+Walking back
+<611.610 to 624.953>
+
+Jump 
+<625.206 to 629.813>

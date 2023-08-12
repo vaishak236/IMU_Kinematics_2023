@@ -1,0 +1,118 @@
+Subject 2
+
+***** STARTING *****
+Static standing (calibration)
+<35 to 52>
+- R2MT
+- LPS1
+- RTH1
+- RASI
+Sync jump
+<53-59>
+- R2MT
+- RASI
+
+Sit-to-stand
+<59 to 87>
+- RTH3
+- LTH3
+- R2MT
+- RTH1
+Forward jump
+<111 to 126>
+- LMML
+- RMEP
+- RASI
+- RTH1
+- LPS1
+- RPS1
+
+Walking back
+<127 to 137>
+- LMML
+- R2MT
+- RMEP
+- RASI
+- RTH1
+- LPS1
+- RPS1
+
+***** MID *****
+Static standing (calibration)
+<306 to 312>
+
+Sync jump
+<313 to 317>
+
+Sit-to-stand
+<317 to 342>
+- RASI
+- LASI
+- LTH3
+- RTH1
+- RRS1
+- LPS1
+- RPS1
+
+Forward jump
+<343 to 350>
+- RPS1
+- LPS1
+- RASI
+- LASI
+- LTH3
+- LTH1
+- RTH1
+
+Walking back
+<351 to 361>
+- LMEP
+- RPS1
+- LPS1
+- RASI
+- LASI
+- LTH1
+- RTH1
+
+****** ENDING *****
+Static standing (calibration)
+<599 to 603>
+- RTH1
+- RPS1
+- LPS1
+
+Sync jump
+<604 to 609>
+- RTH1
+- RPS1
+- LPS1
+
+Sit-to-stand
+<611 to 635>
+- RPS1
+- LPS1
+- RTH1
+- LASI
+
+Forward jump
+<636 to 642>
+- LGTR
+- LPS1
+- RPS1
+- RASI
+- LASI
+
+Walking back
+<643 to 655>
+- LGTR
+- LPS1
+- RTH2
+- RPS1
+- RASI
+- LASI
+- LMML
+- LMEP
+- LTTB
+- RGTR
+- RMEP
+- APEX

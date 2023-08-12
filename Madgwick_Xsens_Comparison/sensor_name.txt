@@ -1,0 +1,14 @@
+Right_hand,00B42960
+Right_far_arm,00B42998
+Right_upper_arm,00B429C3
+Right_foot,00B42985
+Right_shank,00B42948
+Right_thigh,00B4295B
+Chest,00B42991
+Pelvis,00B42968
+Left_hand,00B4295E
+Left_far_arm,00B42955
+Left_upper_arm,00B42941
+Left_foot,00B429BB
+Left_shank,00B429A0 
+Left_thigh,00B429B6

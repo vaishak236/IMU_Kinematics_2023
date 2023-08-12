@@ -1,0 +1,15 @@
+head	00B4D7D5
+stern	00B4D7D4
+pelvis	00B4D7D3
+uarm_left	00B4D7D2
+farm_left	00B4D7CD
+hand_left	00B4D7CF
+uleg_left	00B4D7FD
+lleg_left	00B4D7CE
+foot_left	00B4D7FF
+uarm_right	00B4D7D0
+farm_right	00B4D7D8
+hand_right	00B4D7BA
+uleg_right	00B4D6D1
+lleg_right	00B4D7FB
+foot_right	00B4D7FE
